@@ -1,0 +1,8 @@
+misc
+models
+.env
+.venv
+.vscode
+Dockerfile
+.gitignore
+scripts

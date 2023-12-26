@@ -1,0 +1,7 @@
+psycopg-binary
+numpy
+tensorflow
+fire
+tqdm
+orjson
+requests
